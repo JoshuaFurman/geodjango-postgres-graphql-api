@@ -4,6 +4,7 @@
 - GeoDjango
 - Graphene 
 - Graphene_GIS
+- Graphene_JWT
 - PostgreSQL
 - PostGIS
 
