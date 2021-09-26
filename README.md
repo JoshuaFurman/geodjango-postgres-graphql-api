@@ -1,10 +1,9 @@
 # GraphQL API Using Django and PostgreSQL
 ## Technology Used
-- Django Webframework
+- Django
 - GeoDjango
 - Graphene 
 - Graphene_GIS
-- Graphene_JWT
 - PostgreSQL
 - PostGIS
 
